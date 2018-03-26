@@ -1,0 +1,15 @@
+{
+  "name": "extract_queries",
+  "version": "1.0.0",
+  "description": "Extract queries",
+  "main": "index.js",
+  "dependencies": {
+    "express": "*",
+    "fast-csv": "^2.3.0"
+  },
+  "author": "geostart",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
